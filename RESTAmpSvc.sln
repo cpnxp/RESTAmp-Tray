@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAmpLib", "RESTAmpLib\RESTAmpLib.csproj", "{EAEA01F5-4E93-4E4F-B783-28384899AE87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAmpTray", "RESTAmpTray\RESTAmpTray.csproj", "{01ED75C8-A07A-49E3-85FC-AD2B0609EC48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAEA01F5-4E93-4E4F-B783-28384899AE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEA01F5-4E93-4E4F-B783-28384899AE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEA01F5-4E93-4E4F-B783-28384899AE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEA01F5-4E93-4E4F-B783-28384899AE87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01ED75C8-A07A-49E3-85FC-AD2B0609EC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01ED75C8-A07A-49E3-85FC-AD2B0609EC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01ED75C8-A07A-49E3-85FC-AD2B0609EC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01ED75C8-A07A-49E3-85FC-AD2B0609EC48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
